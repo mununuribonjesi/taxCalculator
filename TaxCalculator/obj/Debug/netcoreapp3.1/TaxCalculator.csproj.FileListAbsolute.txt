@@ -1,0 +1,11 @@
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/bin/Debug/netcoreapp3.1/TaxCalculator
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/bin/Debug/netcoreapp3.1/TaxCalculator.deps.json
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/bin/Debug/netcoreapp3.1/TaxCalculator.runtimeconfig.json
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/bin/Debug/netcoreapp3.1/TaxCalculator.runtimeconfig.dev.json
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/bin/Debug/netcoreapp3.1/TaxCalculator.dll
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/bin/Debug/netcoreapp3.1/TaxCalculator.pdb
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/obj/Debug/netcoreapp3.1/TaxCalculator.csprojAssemblyReference.cache
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/obj/Debug/netcoreapp3.1/TaxCalculator.AssemblyInfoInputs.cache
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/obj/Debug/netcoreapp3.1/TaxCalculator.AssemblyInfo.cs
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/obj/Debug/netcoreapp3.1/TaxCalculator.dll
+/Users/Banks/Projects/TaxCalculator/TaxCalculator/obj/Debug/netcoreapp3.1/TaxCalculator.pdb
