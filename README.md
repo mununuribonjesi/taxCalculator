@@ -6,7 +6,18 @@ Tax Calculator Assignment
 
 An application that prints out the receipt details of items in a shopping basket.
 
-When running the application you will be asked to enter the details of the item and after you have finished inputing the data a receipt will be printed out showing the tax and total cost.
+You can run this application using visual studio or via executable file located in the bin.
+
+For each Input the application will ask you:
+
+*To Enter the item, 
+*To Enter the Quantity which is a number,
+*Whether the item it is an Import please answer with characters (y/n),
+*Whether the item is Food,Medication or Book please answer with characters(y/n),
+*To Enter the Price of the item
+
+After All the data has been input into the system the application will print out a receipt to the client
+
 
 
 
