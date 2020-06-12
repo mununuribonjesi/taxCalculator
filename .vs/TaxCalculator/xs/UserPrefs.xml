@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{1072CE00-0A2A-4475-9F84-A661256E53AB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaxCalculator/printReceipt.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxCalculator/Program.cs">
     <Files>
-      <File FileName="TaxCalculator/printReceipt.cs" Line="10" Column="12" />
-      <File FileName="TaxCalculator/Program.cs" />
+      <File FileName="TaxCalculator/printReceipt.cs" Line="22" Column="1" />
+      <File FileName="TaxCalculator/Program.cs" Line="1" Column="1" />
       <File FileName="TaxCalculator/productInput.cs" />
       <File FileName="TaxCalculator/productDetails.cs" />
     </Files>
@@ -11,7 +11,7 @@
         <State name="__root__">
           <Node name="TaxCalculator" expanded="True">
             <Node name="TaxCalculator" expanded="True">
-              <Node name="printReceipt.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

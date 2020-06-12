@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Banks/Projects/TaxCalculator/TaxCalculator/TaxCalculator.csproj": {}
+    "/Users/Banks/Documents/Development/taxCalculator/TaxCalculator/TaxCalculator.csproj": {}
   },
   "projects": {
-    "/Users/Banks/Projects/TaxCalculator/TaxCalculator/TaxCalculator.csproj": {
+    "/Users/Banks/Documents/Development/taxCalculator/TaxCalculator/TaxCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Banks/Projects/TaxCalculator/TaxCalculator/TaxCalculator.csproj",
+        "projectUniqueName": "/Users/Banks/Documents/Development/taxCalculator/TaxCalculator/TaxCalculator.csproj",
         "projectName": "TaxCalculator",
-        "projectPath": "/Users/Banks/Projects/TaxCalculator/TaxCalculator/TaxCalculator.csproj",
+        "projectPath": "/Users/Banks/Documents/Development/taxCalculator/TaxCalculator/TaxCalculator.csproj",
         "packagesPath": "/Users/Banks/.nuget/packages/",
-        "outputPath": "/Users/Banks/Projects/TaxCalculator/TaxCalculator/obj/",
+        "outputPath": "/Users/Banks/Documents/Development/taxCalculator/TaxCalculator/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

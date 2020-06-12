@@ -10,5 +10,6 @@
     <Compile Remove="shoppingTill.cs" />
     <Compile Remove="shoppingTill.cs" />
     <Compile Remove="shoppingTill.cs" />
+    <Compile Remove="TaxCalculator.cs" />
   </ItemGroup>
 </Project>
